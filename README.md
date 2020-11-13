@@ -3,10 +3,12 @@ An android application for the association : Association des jeunes polytechnici
 
 Android Studio was used to create this application. <br>
 
-The purpose of this application is to give members of the association the possibility to specify how much they spent and all the informations of their missions. The administration of the association can afterwards refund them and have an realtime idea about all the ongoing missions.<br>
+The purpose of this application is to give members of the association the possibility to specify how much they spent and all the informations of their missions. The administration of the association can afterwards refund them and have a realtime idea about all the ongoing missions.<br>
 
 Screenshot: 
 
 ![ScreenShot](https://i.imgur.com/8r4PC93.png)
+
+
 
 
