@@ -1,5 +1,5 @@
 # Ajp-the-app-Android-Application-
-An android application for the association : Association des jeunes polytechniciens. A personal project(summer holidays) to learn Android and especially to try the Google FireBase API.
+Summer 2017 - An android application for the association : Association des jeunes polytechniciens. A personal project(summer holidays) to learn Android and especially to try the Google FireBase API.
 
 Android Studio was used to create this application. <br>
 
