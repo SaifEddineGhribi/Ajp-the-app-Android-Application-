@@ -7,6 +7,6 @@ The purpose of this application is to give members of the association the possib
 
 Screenshot: 
 
-![ScreenShot](https://https://i.imgur.com/8r4PC93.png)
+![ScreenShot](https://i.imgur.com/8r4PC93.png)
 
 
